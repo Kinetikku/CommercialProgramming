@@ -1,0 +1,15 @@
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\bin\Debug\net6.0\LinqJoin.exe
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\bin\Debug\net6.0\LinqJoin.deps.json
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\bin\Debug\net6.0\LinqJoin.runtimeconfig.json
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\bin\Debug\net6.0\LinqJoin.dll
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\bin\Debug\net6.0\LinqJoin.pdb
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\obj\Debug\net6.0\LinqJoin.csproj.AssemblyReference.cache
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\obj\Debug\net6.0\LinqJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\obj\Debug\net6.0\LinqJoin.AssemblyInfoInputs.cache
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\obj\Debug\net6.0\LinqJoin.AssemblyInfo.cs
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\obj\Debug\net6.0\LinqJoin.csproj.CoreCompileInputs.cache
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\obj\Debug\net6.0\LinqJoin.dll
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\obj\Debug\net6.0\refint\LinqJoin.dll
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\obj\Debug\net6.0\LinqJoin.pdb
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\obj\Debug\net6.0\LinqJoin.genruntimeconfig.cache
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\obj\Debug\net6.0\ref\LinqJoin.dll

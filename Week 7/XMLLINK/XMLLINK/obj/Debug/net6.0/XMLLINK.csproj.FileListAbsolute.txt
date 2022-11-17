@@ -1,0 +1,15 @@
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 7\XMLLINK\XMLLINK\bin\Debug\net6.0\XMLLINK.exe
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 7\XMLLINK\XMLLINK\bin\Debug\net6.0\XMLLINK.deps.json
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 7\XMLLINK\XMLLINK\bin\Debug\net6.0\XMLLINK.runtimeconfig.json
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 7\XMLLINK\XMLLINK\bin\Debug\net6.0\XMLLINK.dll
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 7\XMLLINK\XMLLINK\bin\Debug\net6.0\XMLLINK.pdb
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 7\XMLLINK\XMLLINK\obj\Debug\net6.0\XMLLINK.csproj.AssemblyReference.cache
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 7\XMLLINK\XMLLINK\obj\Debug\net6.0\XMLLINK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 7\XMLLINK\XMLLINK\obj\Debug\net6.0\XMLLINK.AssemblyInfoInputs.cache
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 7\XMLLINK\XMLLINK\obj\Debug\net6.0\XMLLINK.AssemblyInfo.cs
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 7\XMLLINK\XMLLINK\obj\Debug\net6.0\XMLLINK.csproj.CoreCompileInputs.cache
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 7\XMLLINK\XMLLINK\obj\Debug\net6.0\XMLLINK.dll
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 7\XMLLINK\XMLLINK\obj\Debug\net6.0\refint\XMLLINK.dll
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 7\XMLLINK\XMLLINK\obj\Debug\net6.0\XMLLINK.pdb
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 7\XMLLINK\XMLLINK\obj\Debug\net6.0\XMLLINK.genruntimeconfig.cache
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 7\XMLLINK\XMLLINK\obj\Debug\net6.0\ref\XMLLINK.dll

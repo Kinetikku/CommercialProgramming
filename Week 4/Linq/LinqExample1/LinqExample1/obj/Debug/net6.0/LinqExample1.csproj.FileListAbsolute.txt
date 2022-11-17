@@ -1,0 +1,15 @@
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 4\Linq\LinqExample1\LinqExample1\bin\Debug\net6.0\LinqExample1.exe
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 4\Linq\LinqExample1\LinqExample1\bin\Debug\net6.0\LinqExample1.deps.json
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 4\Linq\LinqExample1\LinqExample1\bin\Debug\net6.0\LinqExample1.runtimeconfig.json
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 4\Linq\LinqExample1\LinqExample1\bin\Debug\net6.0\LinqExample1.dll
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 4\Linq\LinqExample1\LinqExample1\bin\Debug\net6.0\LinqExample1.pdb
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 4\Linq\LinqExample1\LinqExample1\obj\Debug\net6.0\LinqExample1.csproj.AssemblyReference.cache
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 4\Linq\LinqExample1\LinqExample1\obj\Debug\net6.0\LinqExample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 4\Linq\LinqExample1\LinqExample1\obj\Debug\net6.0\LinqExample1.AssemblyInfoInputs.cache
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 4\Linq\LinqExample1\LinqExample1\obj\Debug\net6.0\LinqExample1.AssemblyInfo.cs
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 4\Linq\LinqExample1\LinqExample1\obj\Debug\net6.0\LinqExample1.csproj.CoreCompileInputs.cache
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 4\Linq\LinqExample1\LinqExample1\obj\Debug\net6.0\LinqExample1.dll
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 4\Linq\LinqExample1\LinqExample1\obj\Debug\net6.0\refint\LinqExample1.dll
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 4\Linq\LinqExample1\LinqExample1\obj\Debug\net6.0\LinqExample1.pdb
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 4\Linq\LinqExample1\LinqExample1\obj\Debug\net6.0\LinqExample1.genruntimeconfig.cache
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 4\Linq\LinqExample1\LinqExample1\obj\Debug\net6.0\ref\LinqExample1.dll

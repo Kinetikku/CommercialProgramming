@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LINQMethodCommands/1.0.0": {
+        "runtime": {
+          "LINQMethodCommands.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQMethodCommands/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

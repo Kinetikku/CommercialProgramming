@@ -1,0 +1,88 @@
+<Catalog>
+<Product Season="Summer">
+   	<id>bk101</id>
+    	<name>Laptop</name>
+	<qty>233</qty>
+	<price>430.00</price>
+	<cat>Mobile</cat>
+</Product>
+
+<Product Season="Winter">
+    	<id>bk765</id>
+    	<name>Monitor</name>
+	<qty>333</qty>
+	<price>199.00</price>
+	<cat>Display</cat>
+</Product>
+<Product Season="Summer">
+    	<id>bk1Seniors</id>
+    	<name>PenDrive</name>
+    	<qty>333</qty>
+	<price>25.99</price>
+	<cat>Storage</cat>
+</Product>
+<Product Season="Summer">
+    	<id>bk1987</id>
+    	<name>Desktop</name>
+	<qty>55</qty>
+	<price>722.33</price>
+	<cat>Office</cat>
+</Product>
+<Product Season="Winter">
+    	<id>bk242</id>
+    	<name>Tablet</name>
+	<qty>333</qty>
+	<price>412</price>
+	<cat>Mobile</cat>
+</Product>
+<Product Season="Summer">
+    	<id>bk987</id>
+    	<name>Keyboard</name>
+	<qty>211</qty>
+	<price>99.00</price>
+	<cat>Input</cat>
+</Product>
+<Product Season="Summer">
+    	<id>bk9872</id>
+    	<name>Mouse</name>
+	<qty>303</qty>
+	<price>25.99</price>
+	<cat>Input</cat>
+</Product>
+<Product Season="Winter">
+    	<id>bk222</id>
+    	<name>HeadPhones</name>
+	<qty>33</qty>
+	<price>122.33</price>
+	<cat>Audio</cat>
+</Product>
+<Product Season="Summer">
+    	<id>bk988</id>
+    	<name>IPhone</name>
+	<qty>23</qty>
+	<price>950</price>
+	<cat>Mobile</cat>
+</Product>
+<Product Season="Winter">
+    	<id>bk177</id>
+    	<name>SSD</name>
+	<qty>300</qty>
+	<price>299.00</price>
+	<cat>Storage</cat>
+</Product>
+<Product Season="Winter">
+    	<id>bk134</id>
+    	<name>GraphicsCard</name>
+	<qty>128</qty>
+	<price>455.00</price>
+	<cat>Display</cat>
+</Product>
+<Product Season="Winter">
+    	<id>bk25.992</id>
+    	<name>AirPods</name>
+	<qty>3</qty>
+	<price>120.00</price>
+	<cat>Mobile</cat>
+</Product>
+
+</Catalog>

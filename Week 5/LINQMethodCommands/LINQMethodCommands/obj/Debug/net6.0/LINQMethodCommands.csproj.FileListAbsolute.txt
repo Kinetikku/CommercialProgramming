@@ -1,0 +1,15 @@
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 5\LINQMethodCommands\LINQMethodCommands\bin\Debug\net6.0\LINQMethodCommands.exe
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 5\LINQMethodCommands\LINQMethodCommands\bin\Debug\net6.0\LINQMethodCommands.deps.json
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 5\LINQMethodCommands\LINQMethodCommands\bin\Debug\net6.0\LINQMethodCommands.runtimeconfig.json
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 5\LINQMethodCommands\LINQMethodCommands\bin\Debug\net6.0\LINQMethodCommands.dll
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 5\LINQMethodCommands\LINQMethodCommands\bin\Debug\net6.0\LINQMethodCommands.pdb
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 5\LINQMethodCommands\LINQMethodCommands\obj\Debug\net6.0\LINQMethodCommands.csproj.AssemblyReference.cache
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 5\LINQMethodCommands\LINQMethodCommands\obj\Debug\net6.0\LINQMethodCommands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 5\LINQMethodCommands\LINQMethodCommands\obj\Debug\net6.0\LINQMethodCommands.AssemblyInfoInputs.cache
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 5\LINQMethodCommands\LINQMethodCommands\obj\Debug\net6.0\LINQMethodCommands.AssemblyInfo.cs
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 5\LINQMethodCommands\LINQMethodCommands\obj\Debug\net6.0\LINQMethodCommands.csproj.CoreCompileInputs.cache
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 5\LINQMethodCommands\LINQMethodCommands\obj\Debug\net6.0\LINQMethodCommands.dll
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 5\LINQMethodCommands\LINQMethodCommands\obj\Debug\net6.0\refint\LINQMethodCommands.dll
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 5\LINQMethodCommands\LINQMethodCommands\obj\Debug\net6.0\LINQMethodCommands.pdb
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 5\LINQMethodCommands\LINQMethodCommands\obj\Debug\net6.0\LINQMethodCommands.genruntimeconfig.cache
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 5\LINQMethodCommands\LINQMethodCommands\obj\Debug\net6.0\ref\LINQMethodCommands.dll
