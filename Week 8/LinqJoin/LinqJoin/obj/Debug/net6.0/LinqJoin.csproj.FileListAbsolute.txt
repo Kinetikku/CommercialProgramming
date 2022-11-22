@@ -13,3 +13,18 @@ C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 8\LinqJ
 C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\obj\Debug\net6.0\LinqJoin.pdb
 C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\obj\Debug\net6.0\LinqJoin.genruntimeconfig.cache
 C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\obj\Debug\net6.0\ref\LinqJoin.dll
+D:\College Work\Year 3\Commercial Programming 2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\bin\Debug\net6.0\LinqJoin.exe
+D:\College Work\Year 3\Commercial Programming 2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\bin\Debug\net6.0\LinqJoin.deps.json
+D:\College Work\Year 3\Commercial Programming 2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\bin\Debug\net6.0\LinqJoin.runtimeconfig.json
+D:\College Work\Year 3\Commercial Programming 2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\bin\Debug\net6.0\LinqJoin.dll
+D:\College Work\Year 3\Commercial Programming 2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\bin\Debug\net6.0\LinqJoin.pdb
+D:\College Work\Year 3\Commercial Programming 2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\obj\Debug\net6.0\LinqJoin.csproj.AssemblyReference.cache
+D:\College Work\Year 3\Commercial Programming 2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\obj\Debug\net6.0\LinqJoin.GeneratedMSBuildEditorConfig.editorconfig
+D:\College Work\Year 3\Commercial Programming 2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\obj\Debug\net6.0\LinqJoin.AssemblyInfoInputs.cache
+D:\College Work\Year 3\Commercial Programming 2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\obj\Debug\net6.0\LinqJoin.AssemblyInfo.cs
+D:\College Work\Year 3\Commercial Programming 2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\obj\Debug\net6.0\LinqJoin.csproj.CoreCompileInputs.cache
+D:\College Work\Year 3\Commercial Programming 2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\obj\Debug\net6.0\LinqJoin.dll
+D:\College Work\Year 3\Commercial Programming 2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\obj\Debug\net6.0\refint\LinqJoin.dll
+D:\College Work\Year 3\Commercial Programming 2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\obj\Debug\net6.0\LinqJoin.pdb
+D:\College Work\Year 3\Commercial Programming 2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\obj\Debug\net6.0\LinqJoin.genruntimeconfig.cache
+D:\College Work\Year 3\Commercial Programming 2\CommercialProgramming\Week 8\LinqJoin\LinqJoin\obj\Debug\net6.0\ref\LinqJoin.dll
