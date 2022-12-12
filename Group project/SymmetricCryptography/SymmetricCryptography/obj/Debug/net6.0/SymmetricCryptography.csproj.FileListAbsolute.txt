@@ -13,3 +13,18 @@ D:\College Work\Year 3\Commercial Programming 2\CommercialProgramming\Group proj
 D:\College Work\Year 3\Commercial Programming 2\CommercialProgramming\Group project\SymmetricCryptography\SymmetricCryptography\obj\Debug\net6.0\SymmetricCryptography.pdb
 D:\College Work\Year 3\Commercial Programming 2\CommercialProgramming\Group project\SymmetricCryptography\SymmetricCryptography\obj\Debug\net6.0\SymmetricCryptography.genruntimeconfig.cache
 D:\College Work\Year 3\Commercial Programming 2\CommercialProgramming\Group project\SymmetricCryptography\SymmetricCryptography\obj\Debug\net6.0\ref\SymmetricCryptography.dll
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Group project\SymmetricCryptography\SymmetricCryptography\bin\Debug\net6.0\SymmetricCryptography.exe
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Group project\SymmetricCryptography\SymmetricCryptography\bin\Debug\net6.0\SymmetricCryptography.deps.json
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Group project\SymmetricCryptography\SymmetricCryptography\bin\Debug\net6.0\SymmetricCryptography.runtimeconfig.json
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Group project\SymmetricCryptography\SymmetricCryptography\bin\Debug\net6.0\SymmetricCryptography.dll
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Group project\SymmetricCryptography\SymmetricCryptography\bin\Debug\net6.0\SymmetricCryptography.pdb
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Group project\SymmetricCryptography\SymmetricCryptography\obj\Debug\net6.0\SymmetricCryptography.csproj.AssemblyReference.cache
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Group project\SymmetricCryptography\SymmetricCryptography\obj\Debug\net6.0\SymmetricCryptography.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Group project\SymmetricCryptography\SymmetricCryptography\obj\Debug\net6.0\SymmetricCryptography.AssemblyInfoInputs.cache
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Group project\SymmetricCryptography\SymmetricCryptography\obj\Debug\net6.0\SymmetricCryptography.AssemblyInfo.cs
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Group project\SymmetricCryptography\SymmetricCryptography\obj\Debug\net6.0\SymmetricCryptography.csproj.CoreCompileInputs.cache
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Group project\SymmetricCryptography\SymmetricCryptography\obj\Debug\net6.0\SymmetricCryptography.dll
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Group project\SymmetricCryptography\SymmetricCryptography\obj\Debug\net6.0\refint\SymmetricCryptography.dll
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Group project\SymmetricCryptography\SymmetricCryptography\obj\Debug\net6.0\SymmetricCryptography.pdb
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Group project\SymmetricCryptography\SymmetricCryptography\obj\Debug\net6.0\SymmetricCryptography.genruntimeconfig.cache
+C:\Work\College\Year 3\CommercialProgramming2\CommercialProgramming\Group project\SymmetricCryptography\SymmetricCryptography\obj\Debug\net6.0\ref\SymmetricCryptography.dll

@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\College Work\\Year 3\\Commercial Programming 2\\CommercialProgramming\\Group project\\SymmetricCryptography\\SymmetricCryptography\\SymmetricCryptography.csproj": {}
+    "C:\\Work\\College\\Year 3\\CommercialProgramming2\\CommercialProgramming\\Group project\\SymmetricCryptography\\SymmetricCryptography\\SymmetricCryptography.csproj": {}
   },
   "projects": {
-    "D:\\College Work\\Year 3\\Commercial Programming 2\\CommercialProgramming\\Group project\\SymmetricCryptography\\SymmetricCryptography\\SymmetricCryptography.csproj": {
+    "C:\\Work\\College\\Year 3\\CommercialProgramming2\\CommercialProgramming\\Group project\\SymmetricCryptography\\SymmetricCryptography\\SymmetricCryptography.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\College Work\\Year 3\\Commercial Programming 2\\CommercialProgramming\\Group project\\SymmetricCryptography\\SymmetricCryptography\\SymmetricCryptography.csproj",
+        "projectUniqueName": "C:\\Work\\College\\Year 3\\CommercialProgramming2\\CommercialProgramming\\Group project\\SymmetricCryptography\\SymmetricCryptography\\SymmetricCryptography.csproj",
         "projectName": "SymmetricCryptography",
-        "projectPath": "D:\\College Work\\Year 3\\Commercial Programming 2\\CommercialProgramming\\Group project\\SymmetricCryptography\\SymmetricCryptography\\SymmetricCryptography.csproj",
+        "projectPath": "C:\\Work\\College\\Year 3\\CommercialProgramming2\\CommercialProgramming\\Group project\\SymmetricCryptography\\SymmetricCryptography\\SymmetricCryptography.csproj",
         "packagesPath": "C:\\Users\\garet\\.nuget\\packages\\",
-        "outputPath": "D:\\College Work\\Year 3\\Commercial Programming 2\\CommercialProgramming\\Group project\\SymmetricCryptography\\SymmetricCryptography\\obj\\",
+        "outputPath": "C:\\Work\\College\\Year 3\\CommercialProgramming2\\CommercialProgramming\\Group project\\SymmetricCryptography\\SymmetricCryptography\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\garet\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -60,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
